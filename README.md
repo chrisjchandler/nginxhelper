@@ -28,4 +28,3 @@ This tool is provided under the MIT License, so you can use it freely in your pr
 
 Feel free to provide feedback or contribute to this project. We're open to suggestions and improvements to make this tool even more useful.
 
-Enjoy generating Nginx configurations with ease!
